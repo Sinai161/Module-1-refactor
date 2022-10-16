@@ -4,4 +4,4 @@ This project is a social media marketing html website. We refracted from divs to
 ---
 ## Website after update
 
-![Refactored Website](./Develop/assets/images/website-screenshot.png)
+![Refactored Website](./assets/images/website-screenshot.png)
